@@ -1,6 +1,8 @@
-opencv-python
-streamlit
-mediapipe
-fer
-numpy
-pandas
+streamlit==1.35.0
+opencv-python-headless==4.9.0.80
+numpy==1.23.5
+pandas==2.1.4
+deepface==0.40.1
+tensorflow==2.11.0
+plotly==5.22.0
+streamlit-option-menu==0.3.6
