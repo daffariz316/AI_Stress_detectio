@@ -6,3 +6,4 @@ deepface==0.40.1
 tensorflow==2.11.0
 plotly==5.22.0
 streamlit-option-menu==0.3.6
+pip install --upgrade pip
