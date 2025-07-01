@@ -1,6 +1,9 @@
 opencv-python
 streamlit
 mediapipe
-fer
+deepface
 numpy
 pandas
+plotly
+streamlit-option-menu
+ml_dtypes==0.4.0
